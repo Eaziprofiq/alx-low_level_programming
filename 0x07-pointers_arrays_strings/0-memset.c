@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** _memset - dive
+/**
+ * _memset - dive
  * @s: pointer to char params
  * @b: data to change
  * @n: index
