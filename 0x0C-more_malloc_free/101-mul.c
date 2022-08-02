@@ -19,16 +19,16 @@ int is_digit(char *s)
 			return (0);
 		i++;
 	}
-	return(1);
+	return (1);
 }
 /**
  * _srlen - returns the length of a string
  * @s: string to evaluate
  *
- * Return: the length of the string
+ * Return: the 5length of the string
  */
 int _strlen(char *s)
-{{
+{
 	int i = 0;
 
 	while (s[i] != '\0')
@@ -36,7 +36,7 @@ int _strlen(char *s)
 		i++;
 	}
 	return (i);
- }
+}
 /**
  * errors - handles erors for main
  */
