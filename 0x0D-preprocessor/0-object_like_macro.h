@@ -1,6 +1,7 @@
-#ifndef _OBJECT_LIKE_MACRO_
-#define _OBJECT_LIKE_MACRO_
+#ifndef MACRO_NAME
+#define MACRO_NAME
 
-#define _SIZE 1024
+#define SIZE 1024
+
 
 #endif
